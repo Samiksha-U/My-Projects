@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4a31e57.css",
+    "main.js": "/static/js/main.620f1df4.js",
+    "static/js/453.bda0511b.chunk.js": "/static/js/453.bda0511b.chunk.js",
+    "static/media/Commitment.jpg": "/static/media/Commitment.38989695e85bed0a6344.jpg",
+    "static/media/team1.jpg": "/static/media/team1.90582ce9b2b59c29ee7b.jpg",
+    "static/media/model3.jpg": "/static/media/model3.0aa1d02cdf447c0bfd4c.jpg",
+    "static/media/mission1.jpg": "/static/media/mission1.9f65efd3789de018a1d6.jpg",
+    "static/media/staffing.jpg": "/static/media/staffing.835c71ff523a31d73ec4.jpg",
+    "static/media/vision1.jpg": "/static/media/vision1.7317cc6e687273716c82.jpg",
+    "static/media/Permanent1.svg": "/static/media/Permanent1.d4368970f1586385e2c4acf2bba06919.svg",
+    "static/media/spn.svg": "/static/media/spn.29bae789f2d3cd05d75a0ea2e3861931.svg",
+    "index.html": "/index.html",
+    "static/media/temporary1.svg": "/static/media/temporary1.8735fadd93bfbf13f1fbb97ab1b1c16a.svg",
+    "static/media/contract1.svg": "/static/media/contract1.6e7014cb5d964be7e35a0971da055e77.svg",
+    "main.c4a31e57.css.map": "/static/css/main.c4a31e57.css.map",
+    "main.620f1df4.js.map": "/static/js/main.620f1df4.js.map",
+    "453.bda0511b.chunk.js.map": "/static/js/453.bda0511b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a31e57.css",
+    "static/js/main.620f1df4.js"
+  ]
+}
